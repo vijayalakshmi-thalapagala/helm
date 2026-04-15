@@ -1,0 +1,4 @@
+apiVersion: v2
+name: nginx
+version: 0.0.1 # this is chart version
+appVersion: latest #thi is application version
